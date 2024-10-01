@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="type_here">Type here</string>
+    <string name="display">Display</string>
+    <string name="text_will_appear_here">Text will appear here</string>
+    <string name="change_color">Change Color</string>
+    <string name="change_size">Change Size</string>
+</resources>
